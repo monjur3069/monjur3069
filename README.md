@@ -1,7 +1,8 @@
 ![Mobile Application Developer](https://media.licdn.com/dms/image/C5603AQGy6suBfB8PyQ/profile-displayphoto-shrink_200_200/0/1659623365272?e=1692835200&v=beta&t=lObF9YVPLAFAHcWEID_noQWYMImLH9XzpzCoHctYAJs)
 
 
-### Hi there 👋, I'm Monjur Ahmed Akash
+### Hi there 👋,
+#I'm Monjur Ahmed Akash
 #### Mobile Application Developer
 
 I am a Mobile Application Developer. I can develop mobile app using flutter and native android both. I completed my graduation from Bangladesh University Of Business And Technology (BUBT). Now I'm working as Mobile App Developer at bdjobs.com.

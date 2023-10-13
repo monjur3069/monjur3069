@@ -2,13 +2,13 @@
 # Monjur Ahmed Akash
 ### Mobile Application Developer
 
-I am a Mobile Application Developer. I can develop mobile app using flutter and native android both. I completed my graduation from Bangladesh University Of Business And Technology (BUBT). Now I'm working as Mobile App Developer at bdjobs.com.
+I am a Mobile Application Developer. I can develop mobile apps using Flutter and native Android. I completed my graduation from Bangladesh University Of Business And Technology (BUBT). Now I'm working as Mobile App Developer at bdjobs.com.
 
 Skills: Flutter/ Kotlin/ Java/ Dart/ Python/ Machine Learning
 
-- 🔭 I’m currently working on ####BdJobs 
+- 🔭 I’m currently working on BdJobs 
 - 🌱 I’m currently learning Mobile App Development 
-- 👯 I’m looking to collaborate on github 
+- 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Mobile App Development 
 - 📫 How to reach me: monjurahmed.cse@gmail.com 
 
